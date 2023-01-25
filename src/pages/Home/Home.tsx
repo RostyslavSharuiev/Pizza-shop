@@ -9,8 +9,6 @@ import { fetchPizzas } from './../../redux/pizza/asyncActions';
 import { selectFilter } from '../../redux/filter/selectors';
 import { selectPizzaData } from '../../redux/pizza/selectors';
 
-import { pageLimit } from './../../constants/constants';
-
 import { Categories, Sort, Skeleton, PizzaBlocks, Pagination } from '../../components';
 
 const Home: FC = () => {
