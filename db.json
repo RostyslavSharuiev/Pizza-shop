@@ -1,0 +1,142 @@
+[
+  {
+    "id": "0",
+    "imageUrl": "https://chicagopizzza.com/kyiv/wp-content/uploads/2020/07/Meksika-317x203.png",
+    "title": "Чикаго Мексика",
+    "types": [0, 1],
+    "sizes": [26, 30, 40],
+    "price": 690,
+    "category": 4,
+    "rating": 4
+  },
+  {
+    "id": "1",
+    "imageUrl": "https://chicagopizzza.com/kyiv/wp-content/uploads/2022/08/Papperoni02png-317x203.png",
+    "title": "Чикаго торпеда",
+    "types": [0],
+    "sizes": [26, 40],
+    "price": 685,
+    "category": 1,
+    "rating": 6
+  },
+  {
+    "id": "2",
+    "imageUrl": "https://chicagopizzza.com/kyiv/wp-content/uploads/2022/08/Papperoni02png-317x203.png",
+    "title": "Пепероні",
+    "types": [0],
+    "sizes": [26, 40],
+    "price": 685,
+    "category": 1,
+    "rating": 4
+  },
+  {
+    "id": "3",
+    "imageUrl": "https://chicagopizzza.com/kyiv/wp-content/uploads/2021/10/jacki-317x203.png",
+    "title": "Чикаго BBQ",
+    "types": [1],
+    "sizes": [26, 30, 40],
+    "price": 690,
+    "category": 3,
+    "rating": 2
+  },
+  {
+    "id": "4",
+    "imageUrl": "https://chicagopizzza.com/kyiv/wp-content/uploads/2021/08/chees-317x203.png",
+    "title": "Чикаго CheeseBurger",
+    "types": [0, 1],
+    "sizes": [26, 30, 40],
+    "price": 690,
+    "category": 1,
+    "rating": 8
+  },
+  {
+    "id": "5",
+    "imageUrl": "https://chicagopizzza.com/kyiv/wp-content/uploads/2021/05/hotdogi-317x203.png",
+    "title": "Чикаго Hot-Dog",
+    "types": [0],
+    "sizes": [30, 40],
+    "price": 685,
+    "category": 1,
+    "rating": 2
+  },
+  {
+    "id": "6",
+    "imageUrl": "https://chicagopizzza.com/kyiv/wp-content/uploads/2022/08/4sira02png-317x203.png",
+    "title": "4 сири",
+    "types": [0, 1],
+    "sizes": [26, 30, 40],
+    "price": 690,
+    "category": 5,
+    "rating": 9
+  },
+  {
+    "id": "7",
+    "imageUrl": "https://chicagopizzza.com/kyiv/wp-content/uploads/2020/07/Teliatina2-317x203.png",
+    "title": "Чикаго з качкою",
+    "types": [0, 1],
+    "sizes": [26, 30, 40],
+    "price": 740,
+    "category": 1,
+    "rating": 10
+  },
+  {
+    "id": "8",
+    "imageUrl": "https://chicagopizzza.com/kyiv/wp-content/uploads/2020/07/los2-1-317x203.png",
+    "title": "Лосось зі шпинатом",
+    "types": [0, 1],
+    "sizes": [26, 30, 40],
+    "price": 725,
+    "category": 2,
+    "rating": 10
+  },
+  {
+    "id": "9",
+    "imageUrl": "https://chicagopizzza.com/kyiv/wp-content/uploads/2021/10/jacki-317x203.png",
+    "title": "Чикаго Jack Daniel's",
+    "types": [0, 1],
+    "sizes": [26, 30, 40],
+    "price": 740,
+    "category": 1,
+    "rating": 7
+  },
+  {
+    "id": "10",
+    "imageUrl": "https://chicagopizzza.com/kyiv/wp-content/uploads/2021/10/krevetka-317x203.png",
+    "title": "Чикаго з тигровою криветкою",
+    "types": [0, 1],
+    "sizes": [26, 30, 40],
+    "price": 999,
+    "category": 2,
+    "rating": 7
+  },
+  {
+    "id": "11",
+    "imageUrl": "https://chicagopizzza.com/kyiv/wp-content/uploads/2021/10/krab-317x203.png",
+    "title": "Чикаго чілі краб",
+    "types": [0, 1],
+    "sizes": [26, 30, 40],
+    "price": 1500,
+    "category": 2,
+    "rating": 7
+  },
+  {
+    "id": "12",
+    "imageUrl": "https://chicagopizzza.com/kyiv/wp-content/uploads/2020/07/Teliatina2-317x203.png",
+    "title": "Чикаго з індичкою",
+    "types": [0, 1],
+    "sizes": [26, 30, 40],
+    "price": 690,
+    "category": 1,
+    "rating": 1
+  },
+  {
+    "id": "13",
+    "imageUrl": "https://chicagopizzza.com/kyiv/wp-content/uploads/2020/07/Teliatina2-317x203.png",
+    "title": "Чикаго з тунцем",
+    "types": [0, 1],
+    "sizes": [26, 30, 40],
+    "price": 690,
+    "category": 2,
+    "rating": 7
+  }
+]
