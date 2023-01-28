@@ -6,7 +6,7 @@ import { selectCart } from '../../redux/cart/selectors';
 
 import logoSvg from '../../assets/img/pizza-logo.svg';
 
-import Search from '../Search/Search';
+import { Search } from '../../components';
 
 const Header: FC = () => {
   const { items, totalPrice } = useSelector(selectCart);

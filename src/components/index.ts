@@ -7,3 +7,4 @@ export { default as Pagination } from './Pagination/Pagination';
 export { default as CartItem } from './CartItem/CartItem';
 export { default as CartEmpty } from './CartEmpty/CartEmpty';
 export { default as NotFoundBlock } from './NotFoundBlock/NotFoundBlock';
+export { default as Search } from './Search/Search';
